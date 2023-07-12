@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#container{
+    text-align: center;
+    margin-top: 160px;
+}
+h1{
+    margin-bottom: 20px;
+}
